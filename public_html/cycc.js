@@ -32,7 +32,7 @@ function updatePixelData(x, y) {
 
 function checkStep(x, y) {
     var nextStepColor = "#" + pixelData[0] + pixelData[1] + pixelData[2] + pixelData[3];
-    alert(nextStepColor);
+    
 //    if (nextStepColor == endColor) {
 //        alert("GAME OVER");
 //    }
